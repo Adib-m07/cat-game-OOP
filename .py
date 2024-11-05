@@ -13,3 +13,7 @@ What would you like to do :
 3.Play
 4.Sleep 
          ''')
+    if action == '1':
+       my_cat.train()
+    elif action == '2':
+        my_cat.feed()
