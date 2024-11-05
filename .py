@@ -17,3 +17,7 @@ What would you like to do :
        my_cat.train()
     elif action == '2':
         my_cat.feed()
+    elif action == '3':
+        my_cat.play()
+    elif action == '4' :
+        my_cat.sleep()
