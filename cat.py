@@ -35,3 +35,4 @@ class Cat:
        self.intelligence +=2
        self.age +=0.1
    def show_stats
+       print(f'{self.age},{self.energy},{self.intelligence},{self.weight}')
